@@ -3,4 +3,4 @@ packages:
     version: 1.1.1
 
 projects:
-  - name: explorer_platform # matches the 'name' in their 'dbt_project.yml'
+  - name: catalog_platform # matches the 'name' in their 'dbt_project.yml'
