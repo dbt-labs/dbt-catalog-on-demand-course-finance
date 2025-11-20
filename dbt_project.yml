@@ -25,3 +25,4 @@ models:
   finance_dbt:
     marts:
       +materialized: table
+      +access: public
