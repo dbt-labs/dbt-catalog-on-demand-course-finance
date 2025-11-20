@@ -22,7 +22,7 @@ clean-targets:
   - dbt_packages
 
 models:
-  finance_dbt:
+  catalog_finance:
     marts:
       +materialized: table
       +access: public
